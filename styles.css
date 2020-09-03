@@ -22,7 +22,7 @@ h2{
 }
 p{
   font-family: 'Montserrat', sans-serif;
-  font-size: 100%;
+  font-size: 105%;
   color: black;
   line-height: 2;
 }
@@ -141,6 +141,8 @@ hr{
 }
 .art-descrip{
   clear: left;
+  width: 1000px;
+  height: 1000px;
 }
 
 .contact-message{
