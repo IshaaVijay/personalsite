@@ -22,7 +22,7 @@ h2{
 }
 p{
   font-family: 'Montserrat', sans-serif;
-  font-size: 90%;
+  font-size: 100%;
   color: black;
   line-height: 2;
 }
@@ -71,7 +71,7 @@ hr{
   -webkit-border-radius: 10;
   -moz-border-radius: 10;
   border-radius: 10px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
